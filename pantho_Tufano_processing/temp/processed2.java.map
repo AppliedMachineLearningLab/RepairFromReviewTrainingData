@@ -1,0 +1,14 @@
+
+
+
+
+mParent,parent,getViewSite,Composite,toolBarManager,mFilename,mOpenTraceFileAction,display,del,mContents,run,SWT.OPEN,actionBars,mParent.getShell,actionBars.getToolBarManager,CommonAction,getActionBars,IToolBarManager,createPartControl,FileDialog,fd,IActionBars,
+VAR_5,VAR_3,VAR_18,VAR_2,VAR_21,VAR_14,VAR_7,VAR_15,VAR_4,VAR_6,VAR_9,VAR_13,VAR_17,VAR_12,VAR_22,VAR_8,VAR_19,VAR_20,VAR_1,VAR_10,VAR_11,VAR_16,
+
+
+
+
+
+
+"Open trace file",
+STRING_1,

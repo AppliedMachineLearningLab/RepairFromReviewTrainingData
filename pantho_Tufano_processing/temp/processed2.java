@@ -1,0 +1,1 @@
+public void VAR_1 ( VAR_2 VAR_3 ) { < | VAR_4 | > VAR_5 = VAR_3 ; VAR_6 = null ; VAR_7 = new VAR_8 ( STRING_1 ) { public void VAR_9 ( ) { VAR_10 VAR_11 = new VAR_10 ( VAR_12 ( ) , VAR_13 ) ; VAR_14 = VAR_11 . open ( ) ; if ( VAR_14 != null ) { VAR_15 ( ) ; } } } ; VAR_16 VAR_17 = VAR_18 ( ) . VAR_19 ( ) ; VAR_20 VAR_21 = VAR_22 ( ) ; VAR_21 . add ( VAR_7 ) ; }

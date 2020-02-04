@@ -1,0 +1,1 @@
+public void METHOD_1 ( TYPE_1 VAR_1 ) { VAR_2 = null ; VAR_3 = new TYPE_2 ( STRING_1 ) { public void METHOD_2 ( ) { TYPE_3 VAR_4 = new TYPE_3 ( VAR_5 . METHOD_3 ( ) , VAR_6 ) ; VAR_7 = VAR_4 . open ( ) ; if ( VAR_7 != null ) { METHOD_4 ( ) ; } } } ; TYPE_4 VAR_8 = METHOD_5 ( ) . METHOD_6 ( ) ; TYPE_5 VAR_9 = VAR_8 . METHOD_7 ( ) ; VAR_9 . add ( VAR_3 ) ; }
